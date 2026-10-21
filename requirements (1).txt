@@ -1,0 +1,3 @@
+# Requirements for PayalJangid_ZeroTrustNetworkAccess.py
+# Uses only Python standard-library modules; no third-party packages required.
+# Recommended Python version: 3.10 or newer
